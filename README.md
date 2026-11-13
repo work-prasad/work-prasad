@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**work-prasad/work-prasad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Prasad 👋
 
-Here are some ideas to get you started:
+### Technical Lead | Backend Engineering | System Architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Technical Lead with 14 years of experience
+building enterprise applications and backend systems.
+
+### 💻 Technical Expertise
+
+- Backend Development: Node.js, NestJS, TypeScript
+- Databases: PostgreSQL, Redis
+- Architecture: Modular Monoliths, Microservices,
+  Distributed Systems
+- Cloud: AWS, Docker
+- Security: Keycloak, Authentication, Authorization
+- Engineering: System Design, Code Reviews,
+  Technical Leadership
+
+### 🚀 Areas of Interest
+
+- Scalable backend architectures
+- Database performance and optimization
+- Distributed systems and reliability
+- Enterprise AI integration and RAG
+
+### 🛠️ Technology Stack
+
+TypeScript | JavaScript | Node.js | NestJS |
+PostgreSQL | Redis | AWS | Docker | Git
+
+### 📫 Connect with me
+
+- LinkedIn: YOUR_LINKEDIN_URL
+- GitHub: YOUR_GITHUB_URL
