@@ -31,5 +31,5 @@ PostgreSQL | Redis | AWS | Docker | Git
 
 ### 📫 Connect with me
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- GitHub: YOUR_GITHUB_URL
+- LinkedIn: https://www.linkedin.com/in/prasad-katkar-01b72758/
+- GitHub: https://github.com/work-prasad
