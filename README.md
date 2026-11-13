@@ -24,10 +24,23 @@ building enterprise applications and backend systems.
 - Distributed systems and reliability
 - Enterprise AI integration and RAG
 
+
 ### 🛠️ Technology Stack
 
-TypeScript | JavaScript | Node.js | NestJS |
-PostgreSQL | Redis | AWS | Docker | Git
+**Languages:** TypeScript, JavaScript
+
+**Backend:** Node.js, NestJS, REST APIs
+
+**Databases:** PostgreSQL, Redis, Kysely
+
+**Architecture:** Modular Monolith, Microservices,
+Event-Driven Architecture, Distributed Systems
+
+**Cloud & DevOps:** AWS, Docker, CI/CD
+
+**Security:** Keycloak, OAuth 2.0, OpenID Connect, RBAC
+
+**Tools:** Git, Swagger / OpenAPI
 
 ### 📫 Connect with me
 
